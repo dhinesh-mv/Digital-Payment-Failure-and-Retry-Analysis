@@ -82,7 +82,7 @@ requirements.txt
 
 ## Author
 
-Dhinesh
+Dhinesh M
 
 B.Tech Artificial Intelligence and Data Science
 
